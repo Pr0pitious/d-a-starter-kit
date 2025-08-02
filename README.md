@@ -54,10 +54,26 @@ Hi, I'm **TK**, a data enthusiast passionate about turning raw data into actiona
 
 ## 📫 Connect With Me
 
-* **LinkedIn:**&#x20;
-* **Email:**&#x20;
-* **Portfolio URL:**&#x20;
+* **LinkedIn:**
+* **Email:**
+* **Portfolio URL:**
 
 ---
 
 > *This portfolio is continuously updated as I complete more data projects. Stay tuned for new insights!*
+
+---
+
+## 📄 Domain-Specific Project READMEs
+
+### [E-commerce README](./ecommerce/README.md)
+
+A detailed description of the Customer Churn & Cohort Analysis project, including dataset overview, key metrics, SQL/Python code snippets, and Tableau dashboards.
+
+### [Finance README](./finance/README.md)
+
+A comprehensive overview of the Portfolio Risk & Return Metrics project, including dataset details, SQL queries, Python analytics, and Power BI visualizations.
+
+### [Marketing README](./marketing/README.md)
+
+A professional breakdown of the Campaign ROI & Customer Segmentation project, featuring dataset highlights, SQL queries, Python segmentation analysis, and Tableau dashboards.
